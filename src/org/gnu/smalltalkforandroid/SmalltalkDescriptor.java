@@ -41,6 +41,7 @@ public class SmalltalkDescriptor implements InterpreterDescriptor {
 
 	@Override
 	public List<String> getArguments(Context context) {
+
 		return Arrays.asList("--kernel-directory", GST_PATH + "kernel");
 	}
 
