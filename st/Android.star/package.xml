@@ -1,0 +1,6 @@
+<package>
+  <name>Android</name>
+  <prereq>NetClients</prereq>
+  <filein>Android.st</filein>
+  <filein>JSON.st</filein>
+</package>
